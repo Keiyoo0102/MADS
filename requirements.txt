@@ -1,0 +1,8 @@
+torch>=1.10.0
+numpy
+rasterio
+tqdm
+pillow
+pandas
+scikit-learn
+matplotlib

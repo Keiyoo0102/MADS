@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-TGRS%20(Under%20Review)-blue)](https://doi.org/10.6084/m9.figshare.31168627)
 [![Dataset](https://img.shields.io/badge/Dataset-Figshare-green)](https://doi.org/10.6084/m9.figshare.31168627)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)

@@ -10,7 +10,6 @@
 
 ## 📖 Introduction
 
-This repository contains the official implementation of the paper: **"Global Classification of Mars-Analog Sand Dunes using Vision-Language Models"**.
 
 We propose a novel **Knowledge-Driven Vision-Language Framework** for high-resolution semantic segmentation of aeolian landforms on Earth, which serve as critical analogs for Martian geology. Unlike traditional RGB-based methods, our approach leverages:
 
